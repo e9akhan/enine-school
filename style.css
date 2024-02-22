@@ -1,0 +1,44 @@
+.bg-color{
+    background-color: #FAFAD2;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.content-family{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.apply-btn{
+    width: 10%;
+}
+
+.text-font{
+    font-size: 1.5rem;
+    word-spacing: 0.5rem;
+    line-height: 2rem;
+}
+
+.info-text{
+    font-size: 1.25rem;
+    word-spacing: 0.5rem;
+}
+
+.footer-text{
+    font-size: 0.9rem;
+}
+
+.font-courier{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.opacity-60{
+    opacity: 60%;
+}
+
+@media screen and (max-width: 1000px) {
+    .apply-btn{
+        width: 30%;
+    }
+}
